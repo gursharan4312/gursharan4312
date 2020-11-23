@@ -40,9 +40,11 @@
 
   <img align="left" alt="gursharan's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=gursharan4312&show_icons=true&hide_border=true" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gursharan4312&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 </details>
+
+<br />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gursharan4312&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://gursharansingh.ca/
 [instagram]: https://www.instagram.com/gursharan_hayer/
