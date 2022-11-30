@@ -30,13 +30,6 @@
 <br />
 <br />
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="gursharan's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=gursharan4312&show_icons=true&hide_border=true&theme=dracula" />
-
-</details>
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gursharan4312)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
