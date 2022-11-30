@@ -2,13 +2,8 @@
 
 ## I'm a Full Stack Developer!!
 
-- 🔭 I'm mostly focused on MERN Stack
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
@@ -48,6 +43,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gursharan4312&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[website]: https://gursharansingh.ca/
 [instagram]: https://www.instagram.com/gursharan_hayer/
 [linkedin]: https://www.linkedin.com/in/gursharan4312/
