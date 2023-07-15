@@ -30,7 +30,7 @@
 <br />
 [instagram]: https://www.instagram.com/gursharan_hayer/
 [linkedin]: https://www.linkedin.com/in/gursharan4312/
-<br/>
+
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gursharan4312&layout=compact&theme=dracula)]
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gursharan4312&count_private=true&show_icons=true&theme=dracula)]
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gursharan4312&theme=dark&background=000000&dates=000000" alt="Github Streaks" />
