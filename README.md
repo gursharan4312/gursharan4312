@@ -1,6 +1,6 @@
 ### Hi there, I'm [Gursharan Singh] 👋
 
-## I'm a Full Stack Developer
+## I'm a Software Developer
 
 ### Connect with me:
 
