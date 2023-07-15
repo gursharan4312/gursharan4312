@@ -30,7 +30,8 @@
 <br />
 <br />
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gursharan4312&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=gursharan4312&theme=dark&background=000000&dates=000000" alt="Github Streaks" />
 
 <br />
 
@@ -38,7 +39,7 @@
 
 <br />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gursharan4312&theme=dark&background=000000&dates=000000" alt="Github Streaks" />
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gursharan4312&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 [instagram]: https://www.instagram.com/gursharan_hayer/
 [linkedin]: https://www.linkedin.com/in/gursharan4312/
