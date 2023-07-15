@@ -28,13 +28,6 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
-<br />
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gursharan4312&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-<br />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gursharan4312&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 [instagram]: https://www.instagram.com/gursharan_hayer/
 [linkedin]: https://www.linkedin.com/in/gursharan4312/
@@ -42,6 +35,9 @@
 <table>
   <tr>
     <td valign="top"><img src="https://github-readme-streak-stats.herokuapp.com/?user=gursharan4312&theme=dark&background=000000&dates=000000" alt="Github Streaks" /></td>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=gursharan4312&count_private=true&theme=vision-friendly-dark&hide=stars,prs" alt="Github Stats" /></td>
+   <!--- <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=gursharan4312&count_private=true&theme=vision-friendly-dark&hide=stars,prs" alt="Github Stats" /></td> -->
+    <td>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gursharan4312&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)</td>
+    <td>[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gursharan4312&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)</td>
   </tr>
 </table>
