@@ -38,3 +38,10 @@
 
 [instagram]: https://www.instagram.com/gursharan_hayer/
 [linkedin]: https://www.linkedin.com/in/gursharan4312/
+
+<table>
+  <tr>
+    <td valign="top"><img src="https://github-readme-streak-stats.herokuapp.com/?user=gursharan4312&theme=dark&background=000000&dates=000000" alt="Github Streaks" /></td>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=gursharan4312&count_private=true&theme=vision-friendly-dark&hide=stars,prs" alt="Github Stats" /></td>
+  </tr>
+</table>
