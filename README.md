@@ -36,7 +36,9 @@
   <tr>
     <td valign="top"><img src="https://github-readme-streak-stats.herokuapp.com/?user=gursharan4312&theme=dark&background=000000&dates=000000" alt="Github Streaks" /></td>
    <!--- <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=gursharan4312&count_private=true&theme=vision-friendly-dark&hide=stars,prs" alt="Github Stats" /></td> -->
-    <td>
+  </tr>
+  <tr>
+        <td>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gursharan4312&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) </td>
     <td> [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gursharan4312&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) </td>
   </tr>
