@@ -1,4 +1,4 @@
-### Hi there, I'm [Gursharan Singh] 👋
+### Hi there, I'm Gursharan Singh 👋
 
 ## I'm a Software Developer
 
