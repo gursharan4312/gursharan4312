@@ -1,6 +1,7 @@
-### Hi there, I'm Gursharan Singh 👋
+<h1 align="center">Hi 👋 I'm Gursharan Singh Hayer</h1>
 
-## I'm a Software Developer
+# 💫 About Me:
+I'm Gursharan Singh Hayer, a full-stack software developer with 4+ years of experience, passionate about cloud computing and optimizing development workflows.
 
 ### Connect with me:
 
@@ -29,10 +30,6 @@
 
 <br />
 <br />
-
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gursharan4312&theme=dark&background=000000&dates=000000" alt="Github Streaks" />
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gursharan4312&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
